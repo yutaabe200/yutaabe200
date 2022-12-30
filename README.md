@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2022年12月30日&lpar;金&rpar;](https://yutaabe200.hatenablog.com/entry/2022/12/30/2022%E5%B9%B412%E6%9C%8830%E6%97%A5%28%E9%87%91%29)
 - [【Kotlin Multiplatform Mobile】 Ktorを使ったApiClientをSwiftのCombineで使う&lpar;備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2022/09/15/%E3%80%90Kotlin_Multiplatform_Mobile%E3%80%91_Ktor%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9FApiClient%E3%82%92Swift%E3%81%AECombine%E3%81%A7%E4%BD%BF%E3%81%86%28%E5%82%99%E5%BF%98%E9%8C%B2%29)
 - [Jetpack ComposeでExoPlayerを使用する&lpar;備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2022/07/20/Jetpack_Compose%E3%81%A7ExoPlayer%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%28%E5%82%99%E5%BF%98%E9%8C%B2%29)
 - [なぜプログラマー・エンジニアの報酬は高額なのか&lpar;旧2021年総括的な備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2021/12/30/%E3%81%AA%E3%81%9C%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%A0%B1%E9%85%AC%E3%81%AF%E9%AB%98%E9%A1%8D%E3%81%AA%E3%81%AE)
-- [新潟の会社を退職して東京の会社にリモートで転職しますエントリー](https://yutaabe200.hatenablog.com/entry/2021/12/17/%E6%96%B0%E6%BD%9F%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%82%92%E9%80%80%E8%81%B7%E3%81%97%E3%81%A6%E6%9D%B1%E4%BA%AC%E3%81%AE%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E3%81%A7%E8%BB%A2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
