@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [転職して1年が経ったので心境をつらつらと書いてみる](https://yutaabe200.hatenablog.com/entry/2023/01/10/%E8%BB%A2%E8%81%B7%E3%81%97%E3%81%A61%E5%B9%B4%E3%81%8C%E7%B5%8C%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E5%BF%83%E5%A2%83%E3%82%92%E3%81%A4%E3%82%89%E3%81%A4%E3%82%89%E3%81%A8%E6%9B%B8%E3%81%84)
 - [2022年12月30日&lpar;金&rpar;](https://yutaabe200.hatenablog.com/entry/2022/12/30/2022%E5%B9%B412%E6%9C%8830%E6%97%A5%28%E9%87%91%29)
 - [【Kotlin Multiplatform Mobile】 Ktorを使ったApiClientをSwiftのCombineで使う&lpar;備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2022/09/15/%E3%80%90Kotlin_Multiplatform_Mobile%E3%80%91_Ktor%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9FApiClient%E3%82%92Swift%E3%81%AECombine%E3%81%A7%E4%BD%BF%E3%81%86%28%E5%82%99%E5%BF%98%E9%8C%B2%29)
 - [Jetpack ComposeでExoPlayerを使用する&lpar;備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2022/07/20/Jetpack_Compose%E3%81%A7ExoPlayer%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%28%E5%82%99%E5%BF%98%E9%8C%B2%29)
-- [なぜプログラマー・エンジニアの報酬は高額なのか&lpar;旧2021年総括的な備忘録&rpar;](https://yutaabe200.hatenablog.com/entry/2021/12/30/%E3%81%AA%E3%81%9C%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E5%A0%B1%E9%85%AC%E3%81%AF%E9%AB%98%E9%A1%8D%E3%81%AA%E3%81%AE)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
