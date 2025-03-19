@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yutaabe200" target="blank"><img src="https://img.shields.io/twitter/follow/yutaabe200?logo=twitter&style=for-the-badge" alt="yutaabe200" /></a> </p>
 
-- 🏠 I do business and products consulting. [FreakShow](https://freak-show.jp/)
+- 🏠 I do business and products consulting. [Freak Show](https://freak-show.jp/)
 
 - 🌱 I am currently developing and operating [COTETE](https://cotete.app/)
 
