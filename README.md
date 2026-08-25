@@ -11,8 +11,6 @@
 
 - 🌱 I am currently developing and operating [COTETE](https://cotete.app/)
 
-- 🧘 I’m currently working on [SOELU](https://www.soelu.com/)
-
 - 🧑‍🎓 I hold a 1st grade Certified Skilled Worker in **Financial Planning.**
 
 - 👨‍💻 All of my projects are available at [https://www.wantedly.com/id/yutaabe200](https://www.wantedly.com/id/yutaabe200)
