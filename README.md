@@ -81,14 +81,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true&theme=default&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yutaabe200&show_icons=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en&theme=tokyonight" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en&theme=tokyonight&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en&theme=default&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yutaabe200&layout=compact&hide_border=true&locale=en&cache_seconds=86400" alt="Top Languages" />
 </picture>
 
 <picture>
